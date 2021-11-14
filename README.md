@@ -1,4 +1,3 @@
 # sample-token
 sample token (solidty)
-
-sample token on ropsten test network
+  on ropsten test network
